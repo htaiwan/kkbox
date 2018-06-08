@@ -10,4 +10,6 @@ import UIKit
 
 class KKAPIClient {
 
+    static let sharedInstance = KKAPIClient()
+
 }
